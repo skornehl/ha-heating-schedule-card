@@ -15,6 +15,10 @@ the block data is exposed as attributes).
 
 ![languages](https://img.shields.io/badge/UI-English%20%7C%20Deutsch-blue)
 
+![Heating Schedule Card](docs/preview.svg)
+
+*Illustration of the card layout.*
+
 ## Installation
 
 **HACS:** add this repository as a custom repository (category *Dashboard*), install
